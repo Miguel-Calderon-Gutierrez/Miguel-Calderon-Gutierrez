@@ -9,7 +9,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin .com/in/https://www.linkedin.com/in/programador-miguel-calderon/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="https://www.linkedin.com/in/programador-miguel-calderon/" height="30" width="40" /></a>
+<a href="https://linkedin .com/in/https://www.linkedin.com/in/programador-miguel-calderon/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="https://www.linkedin.com/in/programador-miguel-calderon/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
