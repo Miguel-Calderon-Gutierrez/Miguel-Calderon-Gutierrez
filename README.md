@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me::</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/programador-miguel-calderon/">
-    <img src="https://skillicons.dev/icons?i=cs,py,ts,java,js,dart&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
 </p>
 
