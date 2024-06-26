@@ -7,7 +7,7 @@
 
 - 📫 How to contact me: **miguelcalderon.dev@gmail.com**
 
-<h3 align="left">Connect with me::</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/programador-miguel-calderon/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
@@ -25,5 +25,12 @@
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=angular,flutter,bootstrap,dotnet,fastapi&theme=light" />
+  </a>
+</p>
+
+<h3 align="left">Tools I use in my daily routine:</h3>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,github,idea,linux,postman,pycharm&theme=light&perline=6" />
   </a>
 </p>
