@@ -1,29 +1,29 @@
 <h1 align="center">Hello 👋, I'm Miguel Calderón</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 👨‍💻  All my projects are available in my [portfolio](https://miguel-calderon-gutierrez.github.io/Portafolio/)
+- 👨‍💻 All my projects are available in my [portfolio](https://miguel-calderon-gutierrez.github.io/Portafolio/)
 
-- 💬 Pregúntame sobre **.Net, Angular, Flutter**
+- 💬 Ask me about **.Net, Angular, Flutter**
 
-- 📫 Cómo contactarme **miguelcalderon.dev@gmail.com**
+- 📫 How to contact me: **miguelcalderon.dev@gmail.com**
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Connect with me::</h3>
 <p align="left">
-<a href="https://linkedin .com/in/https://www.linkedin.com/in/programador-miguel-calderon/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="https://www.linkedin.com/in/programador-miguel-calderon/" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Lenguajes que me apasionan:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
+ <a href="https://www.linkedin.com/in/programador-miguel-calderon/">
     <img src="https://skillicons.dev/icons?i=cs,py,ts,java,js,dart&theme=light" />
   </a>
 </p>
 
-
-<h3 align="left">Frameworks que uso para mis desarrollos:</h3>
+<h3 align="left">Languages I'm passionate about:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=cs,py,ts,java,js,dart&theme=light" />
+  </a>
+</p>
+
+<h3 align="left">Frameworks I use for my developments:</h3>
+<p align="center">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=angular,flutter,bootstrap,dotnet,fastapi&theme=light" />
   </a>
 </p>
