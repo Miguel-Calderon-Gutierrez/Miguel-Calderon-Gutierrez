@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Miguel Calderón</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 👨‍💻 All my projects are available at [Portafolio](https://miguel-calderon-gutierrez.github.io/Portafolio/)
+- 👨‍💻  All my projects are available in my [portfolio](https://miguel-calderon-gutierrez.github.io/Portafolio/)
 
 - 💬 Pregúntame sobre **.Net, Angular, Flutter**
 
