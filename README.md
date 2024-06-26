@@ -16,7 +16,7 @@
 <h3 align="left">Lenguajes que me apasionan:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,ts,java,js,dart" />
+    <img src="https://skillicons.dev/icons?i=cs,py,ts,java,js,dart,figma&theme=light" />
   </a>
 </p>
 
@@ -24,6 +24,6 @@
 <h3 align="left">Frameworks que uso para mis desarrollos:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,flutter,bootstrap,dotnet,fastapi" />
+    <img src="https://skillicons.dev/icons?i=angular,flutter,bootstrap,dotnet,fastapi,figma&theme=light" />
   </a>
 </p>
