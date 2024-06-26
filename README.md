@@ -32,7 +32,7 @@
 <h3 align="left">Database managers I use for my developments:</h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=opencv,sklearn,pytorch,tensorflow,arduino&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light&perline=6" />
   </a>
 </p>
 
