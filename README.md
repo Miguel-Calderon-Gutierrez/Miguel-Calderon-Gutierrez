@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Miguel Calderón</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
+<h3 align="center">A systems engineer from Colombia, passionate about software development</h3>
 
 - 👨‍💻 All my projects are available in my [portfolio](https://miguel-calderon-gutierrez.github.io/Portafolio/)
 
