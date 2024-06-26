@@ -21,6 +21,7 @@
   </a>
 </p>
 
+
 <h3 align="left">Frameworks I use for my developments:</h3>
 <p align="center">
   <a href="#">
@@ -28,9 +29,23 @@
   </a>
 </p>
 
+<h3 align="left">Database managers I use for my developments:</h3>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=opencv,sklearn,pytorch,tensorflow,arduino&theme=light&perline=6" />
+  </a>
+</p>
+
 <h3 align="left">Tools I use in my daily routine:</h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,github,idea,linux,postman,pycharm&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,github,idea,linux,postman,pycharm&theme=light&perline=6" />
+  </a>
+</p>
+
+<h3 align="left">Some new technologies I am exploring:</h3>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=opencv,sklearn,pytorch,tensorflow,arduino&theme=light&perline=6" />
   </a>
 </p>
