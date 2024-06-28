@@ -10,8 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/programador-miguel-calderon/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
   </a>
+
  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FMiguel-Calderon-Gutierrez" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=light" />
   </a>
@@ -24,7 +25,6 @@
     <img src="https://skillicons.dev/icons?i=cs,py,ts,java,js,dart&theme=light" />
   </a>
 </p>
-
 
 <h3 align="left">Frameworks I use for my developments:</h3>
 <p align="left">
