@@ -12,6 +12,10 @@
  <a href="https://www.linkedin.com/in/programador-miguel-calderon/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
+ <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FMiguel-Calderon-Gutierrez" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" />
+  </a>
+
 </p>
 
 <h3 align="left">Languages I'm passionate about:</h3>
