@@ -54,9 +54,12 @@
   </a>
 </p>
 
+## GitHub Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Calderon-Gutierrez)
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miguel-Calderon-Gutierrez)
+## GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-Calderon-Gutierrez)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Miguel-Calderon-Gutierrez)
-![GitHub Metrics](https://metrics.lecoq.io/Miguel-Calderon-Gutierrez)
+## GitHub Profile Summary Card
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miguel-Calderon-Gutierrez)
+
+
 
