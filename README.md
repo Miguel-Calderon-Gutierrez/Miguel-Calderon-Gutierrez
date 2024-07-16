@@ -53,3 +53,5 @@
     <img src="https://skillicons.dev/icons?i=opencv,sklearn,pytorch,tensorflow,arduino&theme=light&perline=6" />
   </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Calderon-Gutierrez)
