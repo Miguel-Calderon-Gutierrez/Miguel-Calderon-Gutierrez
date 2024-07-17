@@ -54,8 +54,10 @@
   </a>
 </p>
 
+<!--
 ## GitHub Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Calderon-Gutierrez)
+-->
 ## GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-Calderon-Gutierrez)
 ## GitHub Profile Summary Card
