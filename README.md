@@ -22,7 +22,7 @@
 <h3 align="left">Languages I'm passionate about:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cs,py,ts,java,js,dart&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,py,ts,js,dart&theme=light" />
   </a>
 </p>
 
@@ -43,14 +43,14 @@
 <h3 align="left">Tools I use in my daily routine:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,github,idea,linux,postman,pycharm&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,github,postman,pycharm&theme=light&perline=6" />
   </a>
 </p>
 
 <h3 align="left">Some new technologies I am exploring:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=opencv,sklearn,pytorch,tensorflow,arduino&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow&theme=light&perline=6" />
   </a>
 </p>
 
