@@ -22,21 +22,21 @@
 <h3 align="left">Languages I'm passionate about:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cs,py,ts,js,dart&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,py,ts,js&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Frameworks I use for my developments:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dotnet,angular,flutter,fastapi,bootstrap&theme=light" />
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,flutter,fastapi,flask,bootstrap&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Database managers I use for my developments:</h3>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&theme=light&perline=6" />
   </a>
 </p>
 
@@ -53,10 +53,6 @@
     <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow&theme=light&perline=6" />
   </a>
 </p>
-
-
-## GitHub Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Calderon-Gutierrez)
 
 ## GitHub Profile Summary Card
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miguel-Calderon-Gutierrez)
