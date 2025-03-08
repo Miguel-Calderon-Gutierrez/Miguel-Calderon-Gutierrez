@@ -3,7 +3,7 @@
 
 - 👨‍💻 All my projects are available in my [portfolio](https://miguel-calderon-gutierrez.github.io/Portafolio/)
 
-- 💬 Ask me about **.Net, Angular, Flutter**
+- 💬 Ask me about **.Net, Angular, Python**
 
 - 📫 How to contact me: **miguelcalderon.dev@gmail.com**
 
